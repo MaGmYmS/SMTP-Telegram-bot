@@ -34,12 +34,12 @@ SMTPHelperBot — это Telegram-бот, который позволяет по
 
 1. Клонируйте этот репозиторий:
    ```bash
-   git clone https://github.com/your_username/smtphandlerbot.git
+   git clone https://github.com/MaGmYmS/SMTP-Telegram-bot
    ```
 
 2. Установите необходимые библиотеки Python:
    ```bash
-   pip install aiogram smtplib
+   pip install aiogram
    ```
 
 3. Настройте переменные окружения для токена Telegram-бота и учётных данных SMTP Яндекса:
@@ -51,8 +51,3 @@ SMTPHelperBot — это Telegram-бот, который позволяет по
    ```bash
    python bot.py
    ```
-
-## Лицензия
-
-Этот бот является open-source и свободен для использования. Вы можете изменять его под свои нужды.
-
